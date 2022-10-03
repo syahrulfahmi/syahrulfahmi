@@ -1,6 +1,6 @@
 ## Hey 👋, This is Syahrul Fahmi
 
-[![Github Badge](https://img.shields.io/badge/-syahrulfahmi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/syahrulfahmi/)](https://www.github.com/syahrulfahmi/) <p align='left'>Hi, I'm Fahmi. I am an Android Developer with about 2 years experience. I chose Android because I use mobile devices more often to carry out daily activities, from there my curiosity arose about the process of making an application. Therefore, I challenge myself to learn new things about application development technology because for me, the challenge is the process of improving my ability to be better in the future and make something that can be useful for the people out there..</p>
+[![Github Badge](https://img.shields.io/badge/-syahrulfahmi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/syahrulfahmi/)](https://www.github.com/syahrulfahmi/) <p align='left'>Hi, I'm Fahmi. I am an Android Developer with about 4 years experience. I chose Android because I use mobile devices more often to carry out daily activities, from there my curiosity arose about the process of making an application. Therefore, I challenge myself to learn new things about application development technology because for me, the challenge is the process of improving my ability to be better in the future and make something that can be useful for the people out there..</p>
 
 ## Languages
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
